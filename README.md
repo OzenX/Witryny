@@ -47,9 +47,9 @@ CSS - Cascading Style Sheets<br>
   <li>trzy</li>
 </ol>
 
-<dl>...<?dl> - początek i koniec listy definicji<br>
-<dt>...<?dt> - definicja<br>
-<dd>...</dd> - opis definicji
+<.dl>...<./dl> - początek i koniec listy definicji<br>
+<.dt>...<./dt> - definicja<br>
+<.dd>...<./dd> - opis definicji
 
 <dl>
   <dt>HTML</dl>
