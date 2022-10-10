@@ -1,0 +1,63 @@
+Buitryny
+
+2 HTML - HyperText Markup Language (hipertekstowy jezyk znacznikow ktory pozwala na wyswietlanie stron internetowych)<br> 3 HyperText text z hiperżączi do innych linków<br><br>
+
+4 Markup znacznik<br>
+
+5 Doena - nazwa (github.com/Lukaszbuturla)<br>
+
+6 Hosting server z plikami stron <br> 7 Link zmieniony adres ip strony <br>
+
+7 HTML 4 vs XHTML vs HTML 5<br>
+
+8 Deprecated - przestarzale <br> 10 JavaScript - jezyk programowania stron<br> CSS- Cascading Style Sheets
+
+9
+
+10 <br><br>
+
+11 <h1>Znacznik</h1>
+
+12 13 <code>< br ></code> -znacznik nowej linii, przestarzale <br /> <br> <code><html>i</html> </code>- początek i koniec dokumentu html <br>
+
+14 <code><head> </head> </code> początek i koniec nagłówka html <br>
+
+15 <code>< body> </body> </code>- początek i koniec ciała (zawartości) dokumentu html <br>
+
+16 <code>&lt;p&gt; i &lt;/phgt;</code> paragraf <br>
+
+17 <code>&lt;html lang="pl"&gt;</code><br>
+
+18 <code>&lt;meta charset="UTF-8"&gt;</code> polskie znaki na stronie kodowanie UTF-8 lub iso-8859-2<br>
+
+<code>&lt;bigt; i &lt;/b&gt;</code><b>pogrubienie</b><br> <code>&lt;1&gt; i &lt;/&gt; </code><i>pochylenie</i><br> 20
+
+19
+
+21
+
+<code>&lt;i title="opis tekstu"&gt; &lt;/i8gt; </code><i title="opis tekstu">pochylenie tekstu razem z opisem podczas najechania myszką</i><br>
+
+22 23 pozycjonowanie stron <br> <code>&lt;span title="opis tekstu &gt; 1 81t;/span&gt; </code><p> To jest paragraf.cspan title="opis tekstu"> tekst razem z opisem podczas najechania myszkę</span>,
+
+24
+
+Koniec paragrafu</p><br> <h1> <code>&lt;hlägt; i &lt;/h1&gt: </code>nagłówek 1 stopnia</h1><br>
+
+25 <h2> <code>&lt;h2&gt; 1 &lt;/h2&gt; </code>nagłówek 2 stopnia</h2><br> <h3> <code>&lt;h3&gt; &lt;/h3&gt; </code>nagłówek 3 stopnia</h3><br>
+
+26
+
+27 28 <h4> <code>&lt;ha&gt; i &lt;/h4&gt; </code>nagłówek 4 stopnia</h4><br> <h5> <code>&lt;hs&gt; i &lt;/h5&gt; </code>nagłówek 5 stopnia</h5><br>
+
+29 38 <h6> <code>&lt;h6&gt; i &lt;/h66gt; </code>nagłówek 6 stopnia</h6><br> <code>&lt;body bgcolor"red"&gt;</code><body bgcolor="red">kolor tia strony -M HTMLS nie
+
+31 używać</body> <br>
+
+32 <code>&nbsp;</code> więcej niż jedna &nbsp;&nbsp;&nbsp;&nbsp;
+
+33 <code>&lt;hr&gt;</code> linia horyzontalna<br><hr><br>
+
+34 spacja<br>
+
+Attach files by dragging & dropping, selecting or pasting them.
