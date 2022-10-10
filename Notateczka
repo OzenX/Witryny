@@ -46,3 +46,13 @@ CSS - Cascading Style Sheets<br>
   <li>tak</li>
   <li>trzy</li>
 </ol>
+
+<dl>...<?dl> - początek i koniec listy definicji<br>
+<dt>...<?dt> - definicja<br>
+<dd>...</dd> - opis definicji
+
+<dl>
+  <dt>HTML</dl>
+  <dd>Język HTML</dd>
+</dl>
+
