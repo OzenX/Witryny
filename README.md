@@ -57,4 +57,4 @@ CSS - Cascading Style Sheets<br>
 </dl>
 <hr>
   <h3>Linki HTML</h3>
-<.a>...<./a> - początek i koniec linka np.LINK
+<.a>...<./a> - początek i koniec linka np.LINK<.a>www.youtube.com<./a><br>
