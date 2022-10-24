@@ -54,8 +54,26 @@ CSS - Cascading Style Sheets<br>
 <dl>
   <dt>HTML</dl>
   <dd>Język HTML</dd>
-</dl>
+  </dl>
 <hr>
-  <h3>Linki HTML</h3>
+  <h3>Linki HTML</h3> 
 <.a>...<./a> - początek i koniec linka np.LINK<.a>www.youtube.com<./a><br>
 <.a href onet.pl>LINK<./a> - początek i konec linku do innej lokalizacji, np. <a href onet.pl>link<br>
+<hr>
+<h3>Grafika na stronie </h3>
+  <.img src=" " width=" " height=" ".> - wyświetlenie obrazu (szerokośc,wysokość) <br>
+  <img src="https://glamrap.pl/wp-content/uploads/2012/12/E9_safe_image-400x240.jpg" height="100" widtg="100"> <br>
+    <br>
+  <.img src=" " alt=" ".> - wyświetla obraz ale jak nie działa to ma tekst <br>
+  <img src="fsafsafsaf.com" alt="Koksu nie ma"> <br>
+  <br>
+  <img src=" " title=" ".> - obraz z tekstem po najechaniu na niego <br>
+  <br>
+  <figure>  
+   <img src="https://robik.radom.pl/8986-large_default/pajac-pajacyk-bawelniany-zolty-w-pasy-wzor-302k.jpg" height="300" widtg="300" title="Igor Pies Pancernych"> <br>
+    <figcaption>Pudzian Da Ci Liścia</figurecaption>
+    </figure>
+    <hr>
+    <strong> Zadanie Domowe </strong> <br>
+    <p><b>Co to jest JPG i jakie ma cechy </p></b>
+    
