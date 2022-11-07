@@ -91,5 +91,7 @@ CSS - Cascading Style Sheets<br>
   </table>
   <br>
 
-<.th>...<./th> - poczatek i koniec naglowka
-    
+<.th>...<./th> - poczatek i koniec naglowka <br>
+<.thead>...<./thead> poczatek i koniec sekcji naglowka tabeli <br>
+<.tbody>...<./tbody> poczatek i koniec sekcji głownej tabeli <br>
+<.tfoot>...<./tfoot> poczatek i koniec sekcji stopki tabeli <br>
