@@ -74,6 +74,21 @@ CSS - Cascading Style Sheets<br>
     <figcaption>Pudzian Da Ci Liścia</figurecaption>
     </figure>
     <hr>
-    <strong> Zadanie Domowe </strong> <br>
-    <p><b>Co to jest JPG i jakie ma cechy </p></b>
+<.table>...<./table> - poczatek i koniec tabeli <br>
+<.tr>...<./tr> - pocztek i koniec wiersza tabeli <br>
+<.td>...<./td> - poczatek i koniec komorki tabeli <br>
+
+ <table>
+   <tr>
+     <th>naglowek 1</th>
+     <td>komorka 2</td>
+   </tr>
+   <tr>
+     <th>komorka 3</th>
+     <td>komorka 4</td>
+   </tr>
+  </table>
+  <br>
+
+<.th>...<./th> - poczatek i koniec naglowka
     
