@@ -77,15 +77,16 @@ CSS - Cascading Style Sheets<br>
 <.table>...<./table> - poczatek i koniec tabeli <br>
 <.tr>...<./tr> - pocztek i koniec wiersza tabeli <br>
 <.td>...<./td> - poczatek i koniec komorki tabeli <br>
+  <strong>Parametr scope oznacza czy chodzi o kolumne (row) czy komorke (col)</strong><br>
 
  <table>
    <tr>
-     <th>naglowek 1</th>
-     <td>komorka 2</td>
+     <th scope="col">komorka 1</th>
+     <td scope="col">>komorka 2</td>
    </tr>
    <tr>
-     <th>komorka 3</th>
-     <td>komorka 4</td>
+     <th scope="row">>komorka 3</th>
+     <td scope="row">>komorka 4</td>
    </tr>
   </table>
   <br>
