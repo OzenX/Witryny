@@ -98,9 +98,10 @@ CSS - Cascading Style Sheets<br>
   
   <h2>Elementy blokowe i liniowe </h2>
   
-  Linia 1 i 3 prezentuje elemety blokowe takie znaczniki jak np. h1, ol, ul, dl, p
-  Linia 2 i 4 prezentuje elementy liniowe - znaczniki takie jak np. a, b, strong, i, img
+  Linia 1 i 3 prezentuje elemety blokowe takie znaczniki jak np. h1, ol, ul, dl, p <br>
+  Linia 2 i 4 prezentuje elementy liniowe - znaczniki takie jak np. a, b, strong, i, img <br>
   
   <h2> Identyfikatory </h2>
   
+  id="jakieś id" - atrybut znacznika, który pozwala odróżnic elementy html i odnosić się do konkretnych elementów, mohą być korzystane jako wewnętrzny odnośnik do miejsca na stronie (w a href="jakieś id+)
   
