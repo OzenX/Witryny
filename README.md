@@ -106,4 +106,8 @@ CSS - Cascading Style Sheets<br>
   
   id="jakieś id" - atrybut znacznika, który pozwala odróżnic elementy html i odnosić się do konkretnych elementów, mohą być korzystane jako wewnętrzny odnośnik do miejsca na stronie (w a href="jakieś id+) <br>
   
-  class="nazwa klasy" - selekotor klasy, podobne do id. Można nimi rozróżniać poszczególne elementy html stosuje się za ich pomocą do konkretnego miejsca na stronie. Atrybut "class" moze powtarzać sie w dokumencie html
+  class="nazwa klasy" - selekotor klasy, podobne do id. Można nimi rozróżniać poszczególne elementy html stosuje się głównie gdy chcemy aby nadać taki sam wygląd dla grupy elementów html, rzadziej odnosimy się za ich pomocą do konkretnego miejsca na stronie. Atrybut "class" moze powtarzać sie w dokumencie html. <br>
+  
+  <h3> Identyfikatory w CSS</h3>
+  #nazwa - odniesienie się do selektora id w pliku css <br>
+  .nazwa - odniesienie się do selektora class w pliku css<br>
