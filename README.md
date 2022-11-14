@@ -95,3 +95,12 @@ CSS - Cascading Style Sheets<br>
 <.thead>...<./thead> poczatek i koniec sekcji naglowka tabeli <br>
 <.tbody>...<./tbody> poczatek i koniec sekcji głownej tabeli <br>
 <.tfoot>...<./tfoot> poczatek i koniec sekcji stopki tabeli <br>
+  
+  <h2>Elementy blokowe i liniowe </h2>
+  
+  Linia 1 i 3 prezentuje elemety blokowe takie znaczniki jak np. h1, ol, ul, dl, p
+  Linia 2 i 4 prezentuje elementy liniowe - znaczniki takie jak np. a, b, strong, i, img
+  
+  <h2> Identyfikatory </h2>
+  
+  
