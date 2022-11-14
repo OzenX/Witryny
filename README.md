@@ -111,3 +111,15 @@ CSS - Cascading Style Sheets<br>
   <h3> Identyfikatory w CSS</h3>
   #nazwa - odniesienie się do selektora id w pliku css <br>
   .nazwa - odniesienie się do selektora class w pliku css<br>
+  
+  <h2>Sekcje</h2>
+  
+ <.div>...<./div> - elemnt blokowy strony, nazywany również box'em albo kontenerem, wewnątrz tego elementu dodajemy wszystkie znaczniki potrzebne w tej sekcji. Można stosować z identyfikatorami id lub class. <br>
+ <.header>...<./header> - początek i koniec sekcji nagłowka strony (góra strony). Logo strony i menu główne <br>
+ <.footer>...<./footer> - początek i koniec sekcji stopki strony (dół strony). Tutaj umieszczamy prawa autorskie, dane kontaktowe <br>
+ <.main>...<./main> - początek i koniec sekcji głównej (uniwersalnej) strony (środek strony). Tutaj tresć strony <br>
+ <.nav>...<./nax> - początek i koniec sekcji nawigacji głównej strony. Tutaj umieszczamy zazwyczaj linki do innych podstron na stronie <br>
+ <.aside>...<./aside> - początek i koniec sekcji bocznej strony. Tutaj umieszczmy boczne menu <br>
+ <.article>...<./article> - początek i koniec sekcji artykułu / wpis strony. Tutaj terkst z bloga <br>
+ <.section>...<./section> - początek i koniec sekcji ogólenj, bez specjalnego przeznaczenia. Tutaj dowolny tekst i elementy strony <br>
+ 
