@@ -97,11 +97,13 @@ CSS - Cascading Style Sheets<br>
 <.tfoot>...<./tfoot> poczatek i koniec sekcji stopki tabeli <br>
   
   <h2>Elementy blokowe i liniowe </h2>
+  https://www.google.com/url?sa=i&url=https%3A%2F%2Fhow2html.pl%2Felementy-blokowe-liniowe%2F&psig=AOvVaw2_Q4GgkxxxuGwxgLgmr59g&ust=1668512978636000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJC8jq3NrfsCFQAAAAAdAAAAABAD
   
   Linia 1 i 3 prezentuje elemety blokowe takie znaczniki jak np. h1, ol, ul, dl, p <br>
   Linia 2 i 4 prezentuje elementy liniowe - znaczniki takie jak np. a, b, strong, i, img <br>
   
   <h2> Identyfikatory </h2>
   
-  id="jakieś id" - atrybut znacznika, który pozwala odróżnic elementy html i odnosić się do konkretnych elementów, mohą być korzystane jako wewnętrzny odnośnik do miejsca na stronie (w a href="jakieś id+)
+  id="jakieś id" - atrybut znacznika, który pozwala odróżnic elementy html i odnosić się do konkretnych elementów, mohą być korzystane jako wewnętrzny odnośnik do miejsca na stronie (w a href="jakieś id+) <br>
+  
   
