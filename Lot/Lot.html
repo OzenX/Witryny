@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    #MiejPrzylot{
+        margin-left: 200px;
+    }
+    #MiejPrzylotL{
+        margin-left: 300px;
+    }
+    #Lot{
+
+    }
+    #Dane{
+
+    }
+    #Uwagi{
+        
+    }
+
+</style>
+</head>
+<body>
+    <div>
+        <form>
+            <fieldset id="Lot">
+                <legend id="legendLot">Lot</legend> 
+                <label for="Wdate" id="WdateL">Data Wylotu</label> <br>
+                <input type="datetime-local" id="Wdate" name="Wdate" required> <br><br>
+                <label for="MiejWylot">Miejsce Wylotu</label>
+                <label for="MiejPrzylot" id="MiejPrzylotL">Miejsce Przylotu</label> <br>
+                <input type="text" id="MiejWylot" name="MiejWylot" required> 
+                <input type="text" id="MiejPrzylot" name="MiejPrzylot" required> <br><br>
+                <label for="IloscOsb">Ilosc Osób</label> <br>
+                <input type="range" id="IloscOsb" name="IloscOsb" min="1" max="10" step="1" required> <br><br>
+                <input type="checkbox" id="BagazRej" name="BagazRej"><label for="BagazRej">Bagaż Rejestrowany</label><br><br>
+                
+                <label>Rodzaj Klasy : </label>
+                <select name="Klasa" required>
+                    <option value="Ekonomiczna">Ekonomiczna</option>
+                    <option value="Biznesowa">Biznesowa</option>
+                </select>
+            </fieldset>
+            <br>
+            <fieldset id="Dane">
+                <legend>Dane</legend>
+                <label for="Imie">Imię</label> <br>
+                <input type="text" id="Imie" name="Imie" required> <br> <br>
+                <label for="Naziwsko">Naziwsko</label> <br>
+                <input type="text" id="Nazwisko" name="Naziwsko" required> <br><br>
+                <label for="NmrTelefon">Numer Telfonu</label> <br>
+                <input type="tel" id="NmrTelefon" name="NmrTelefon"> <br><br>
+                <label for="E-mail">E-mail</label> <br>
+                <input type="email" id="E-mail" name="E-mail" required>
+            </fieldset>
+            <br>
+            <fieldset id="Uwagi">
+                <legend>Uwagi</legend>
+                <textarea id="TextUwag" name="TextUwag" rows="10" cols="194"></textarea>
+            </fieldset>
+        </form>
+    </div>
+</body>
+</html>
