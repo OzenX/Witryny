@@ -1,0 +1,96 @@
+*
+{
+    box-sizing: border-box;
+}
+header
+{
+    background-color: rgb(47, 164, 164);
+    width: 70%;
+    height: 100px;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 3px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align:left;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.tree
+{    
+    float: left;
+    width: 65px;
+    height: 65px;
+    margin-right: 20px;
+}
+#link
+{
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+    margin: 10px;
+    border: 2px solid rgb(72, 48, 48);
+}
+main
+{
+    margin-top: 3px;
+}
+#table
+{
+    background-color: lightblue;
+    width: 20%;
+    height: 360px;
+    margin-left: 15%;
+    padding-top: 10px;
+    float: left;
+}
+#section
+{
+    background-color: rgb(158, 55, 55);
+    width: 50%;
+    height: 360px;
+    margin-right: 15%;
+    padding: 10px;
+    float: right;
+}
+.face
+{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    float: left;
+}
+.face2
+{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    float: right;
+}
+#foot {
+    background: greenyellow;
+    width: 70%;
+    height: 70px;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-top: 10px;
+    text-align: center;
+    padding-top: 10px;
+    font-weight: bold;
+    clear: both;
+}
+.artic1
+{
+    margin-bottom: 30px;
+}
+
